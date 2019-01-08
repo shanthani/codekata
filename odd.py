@@ -6,5 +6,5 @@ for i in range(n+1,k):
             print(i,end="")
             c=c+1
         else:
-            print(" ",i,end="")
+            print("",i,end="")
     
