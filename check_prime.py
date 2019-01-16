@@ -9,10 +9,9 @@ def isprime(n):
         return False
     
 n,m=map(int,input().split())
+c=0
 for i in range(n,m+1):
-    c=0
     if isprime(i)==True:
         c=c+1
 print(c)
-
     
