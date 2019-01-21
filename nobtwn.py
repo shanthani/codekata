@@ -1,5 +1,5 @@
-n=int(input()) #get the ip
+n=int(input()) 
 if n>=1 and n<=10:  
     print("yes")
 else:
-    print("no")
+    print("no") #print no
