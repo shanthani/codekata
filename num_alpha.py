@@ -10,6 +10,6 @@ for j in n:
         c=c+1
         break
 if c==2:
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
